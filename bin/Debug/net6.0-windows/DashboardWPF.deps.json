@@ -6,6 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
+      "DashboardWPF/1.0.0": {
+        "dependencies": {
+          "FontAwesome.WPF": "4.7.0.9"
+        },
+        "runtime": {
+          "DashboardWPF.dll": {}
+        }
+      },
       "FontAwesome.WPF/4.7.0.9": {
         "runtime": {
           "lib/net40/FontAwesome.WPF.dll": {
@@ -17,6 +25,11 @@
     }
   },
   "libraries": {
+    "DashboardWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "FontAwesome.WPF/4.7.0.9": {
       "type": "package",
       "serviceable": true,
