@@ -14,3 +14,6 @@ Berikut merupakan salah satu implementasi yang telah saya buat dengan menggunaka
 
 ![image](https://github.com/Caknoooo/PBKK_Tugas_3_DashboardWPF/assets/92671053/c7823e9a-15cd-453b-b149-a0114f102be7)
 
+<div align="center">
+  <image src="https://github.com/Caknoooo/PBKK_Tugas_3_DashboardWPF/assets/92671053/8cad9f59-5538-4205-a72c-5c6273ac26a4"></image>
+</div>
